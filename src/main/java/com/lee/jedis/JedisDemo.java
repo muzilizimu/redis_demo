@@ -78,5 +78,7 @@ public class JedisDemo {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("idea push");
+        System.out.println("idea pull");
     }
+    
 }
