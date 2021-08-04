@@ -75,5 +75,6 @@ public class JedisDemo {
         System.out.println(s);
         System.out.println("hello,world");
         System.out.println("hot-fix111");
+        System.out.println("master");
     }
 }
