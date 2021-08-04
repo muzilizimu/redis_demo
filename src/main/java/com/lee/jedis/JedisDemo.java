@@ -73,6 +73,6 @@ public class JedisDemo {
         }
         String s = jedis.get("k2");
         System.out.println(s);
-
+        System.out.println("hello,world");
     }
 }
